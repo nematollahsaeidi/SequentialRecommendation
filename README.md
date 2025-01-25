@@ -2,7 +2,7 @@
 
 This repository provides TensorFlow implementations of components used in modern neural network architectures, including position encoding, multi-head attention, RNNs, LSTMs, and convolutional layers. These components are specifically designed to process sequential data, such as text or time series, enabling models to effectively capture both local dependencies and long-range relationships within the data. The project was completed in 2020, focusing on building efficient and flexible architectures for a variety of sequence-based tasks.
 
-## Key Features
+## Features
 
 ### 1. **Position Encoding**
    - Implements position encoding techniques that add information about the order of tokens in a sequence. This is essential for models like Transformers that do not inherently capture the sequence order.
